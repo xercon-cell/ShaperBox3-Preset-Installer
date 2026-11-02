@@ -22,3 +22,9 @@ ShaperBox 3 does not read plain preset files from folders directly. Instead, it 
 ## 🛠️ Built With
 * Python / Tkinter
 * PyInstaller (compiled to a standalone `.exe`)
+
+## What's New in This Version
+* **Clear Presets Database:** Added a dedicated button to instantly wipe the plugin database with a single click and a safety confirmation prompt.
+* **Universal Batch Importer:** Seamlessly supports both `.fxp` and `.fst` preset files.
+* **Auto-Backup & Safety:** Automatically creates a backup of your database before modifying anything, preventing accidental data loss.
+* **Completely Free & Open-Source** (GPL-3.0).
